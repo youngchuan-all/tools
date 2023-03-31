@@ -1,0 +1,202 @@
+﻿  test.cpp
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(911): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(940): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(940): warning C4269: “LIBID_WUApiLib”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(943): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(943): warning C4269: “IID_IUpdateLockdown”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(946): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(946): warning C4269: “IID_IStringCollection”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(949): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(949): warning C4269: “IID_IWebProxy”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(952): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(952): warning C4269: “IID_ISystemInformation”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(955): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(955): warning C4269: “IID_IWindowsUpdateAgentInfo”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(958): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(958): warning C4269: “IID_IAutomaticUpdatesResults”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(961): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(961): warning C4269: “IID_IAutomaticUpdatesSettings”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(964): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(964): warning C4269: “IID_IAutomaticUpdatesSettings2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(967): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(967): warning C4269: “IID_IAutomaticUpdatesSettings3”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(970): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(970): warning C4269: “IID_IAutomaticUpdates”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(973): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(973): warning C4269: “IID_IAutomaticUpdates2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(976): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(976): warning C4269: “IID_IUpdateIdentity”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(979): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(979): warning C4269: “IID_IImageInformation”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(982): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(982): warning C4269: “IID_ICategory”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(985): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(985): warning C4269: “IID_ICategoryCollection”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(988): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(988): warning C4269: “IID_IInstallationBehavior”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(991): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(991): warning C4269: “IID_IUpdateDownloadContent”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(994): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(994): warning C4269: “IID_IUpdateDownloadContent2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(997): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(997): warning C4269: “IID_IUpdateDownloadContentCollection”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1000): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1000): warning C4269: “IID_IUpdate”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1003): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1003): warning C4269: “IID_IUpdate2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1006): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1006): warning C4269: “IID_IUpdate3”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1009): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1009): warning C4269: “IID_IUpdate4”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1012): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1012): warning C4269: “IID_IUpdate5”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1015): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1015): warning C4269: “IID_IWindowsDriverUpdate”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1018): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1018): warning C4269: “IID_IWindowsDriverUpdate2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1021): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1021): warning C4269: “IID_IWindowsDriverUpdate3”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1024): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1024): warning C4269: “IID_IWindowsDriverUpdate4”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1027): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1027): warning C4269: “IID_IWindowsDriverUpdate5”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1030): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1030): warning C4269: “IID_IWindowsDriverUpdateEntryCollection”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1033): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1033): warning C4269: “IID_IWindowsDriverUpdateEntry”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1036): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1036): warning C4269: “IID_IUpdateCollection”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1039): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1039): warning C4269: “IID_IUpdateException”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1042): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1042): warning C4269: “IID_IInvalidProductLicenseException”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1045): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1045): warning C4269: “IID_IUpdateExceptionCollection”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1048): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1048): warning C4269: “IID_ISearchResult”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1051): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1051): warning C4269: “IID_ISearchJob”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1054): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1054): warning C4269: “IID_ISearchCompletedCallbackArgs”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1057): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1057): warning C4269: “IID_ISearchCompletedCallback”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1060): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1060): warning C4269: “IID_IUpdateHistoryEntry”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1063): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1063): warning C4269: “IID_IUpdateHistoryEntry2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1066): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1066): warning C4269: “IID_IUpdateHistoryEntryCollection”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1069): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1069): warning C4269: “IID_IUpdateSearcher”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1072): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1072): warning C4269: “IID_IUpdateSearcher2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1075): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1075): warning C4269: “IID_IUpdateSearcher3”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1078): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1078): warning C4269: “IID_IUpdateDownloadResult”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1081): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1081): warning C4269: “IID_IDownloadResult”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1084): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1084): warning C4269: “IID_IDownloadProgress”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1087): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1087): warning C4269: “IID_IDownloadJob”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1090): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1090): warning C4269: “IID_IDownloadCompletedCallbackArgs”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1093): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1093): warning C4269: “IID_IDownloadCompletedCallback”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1096): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1096): warning C4269: “IID_IDownloadProgressChangedCallbackArgs”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1099): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1099): warning C4269: “IID_IDownloadProgressChangedCallback”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1102): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1102): warning C4269: “IID_IUpdateDownloader”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1105): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1105): warning C4269: “IID_IUpdateInstallationResult”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1108): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1108): warning C4269: “IID_IInstallationResult”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1111): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1111): warning C4269: “IID_IInstallationProgress”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1114): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1114): warning C4269: “IID_IInstallationJob”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1117): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1117): warning C4269: “IID_IInstallationCompletedCallbackArgs”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1120): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1120): warning C4269: “IID_IInstallationCompletedCallback”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1123): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1123): warning C4269: “IID_IInstallationProgressChangedCallbackArgs”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1126): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1126): warning C4269: “IID_IInstallationProgressChangedCallback”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1129): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1129): warning C4269: “IID_IUpdateInstaller”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1132): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1132): warning C4269: “IID_IUpdateInstaller2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1135): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1135): warning C4269: “IID_IUpdateInstaller3”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1138): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1138): warning C4269: “IID_IUpdateInstaller4”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1141): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1141): warning C4269: “IID_IUpdateSession”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1144): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1144): warning C4269: “IID_IUpdateSession2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1147): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1147): warning C4269: “IID_IUpdateSession3”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1150): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1150): warning C4269: “IID_IUpdateService”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1153): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1153): warning C4269: “IID_IUpdateService2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1156): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1156): warning C4269: “IID_IUpdateServiceCollection”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1159): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1159): warning C4269: “IID_IUpdateServiceRegistration”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1162): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1162): warning C4269: “IID_IUpdateServiceManager”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1165): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1165): warning C4269: “IID_IUpdateServiceManager2”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1168): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1168): warning C4269: “IID_IInstallationAgent”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1171): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1171): warning C4269: “CLSID_StringCollection”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1174): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1174): warning C4269: “CLSID_UpdateSearcher”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1177): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1177): warning C4269: “CLSID_WebProxy”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1180): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1180): warning C4269: “CLSID_SystemInformation”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1183): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1183): warning C4269: “CLSID_WindowsUpdateAgentInfo”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1186): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1186): warning C4269: “CLSID_AutomaticUpdates”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1189): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1189): warning C4269: “CLSID_UpdateCollection”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1192): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1192): warning C4269: “CLSID_UpdateDownloader”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1195): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1195): warning C4269: “CLSID_UpdateInstaller”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1198): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1198): warning C4269: “CLSID_UpdateSession”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1201): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1201): warning C4269: “CLSID_UpdateServiceManager”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1204): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1204): warning C4269: “CLSID_InstallationAgent”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1386): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1386): error C2086: “const GUID IID_IUpdateLockdown”: 重定义
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(943): note: 参见“IID_IUpdateLockdown”的声明
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1386): warning C4269: “IID_IUpdateLockdown”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1466): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1466): error C2086: “const GUID IID_IStringCollection”: 重定义
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(946): note: 参见“IID_IStringCollection”的声明
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1466): warning C4269: “IID_IStringCollection”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1692): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1692): error C2086: “const GUID IID_IWebProxy”: 重定义
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(949): note: 参见“IID_IWebProxy”的声明
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1692): warning C4269: “IID_IWebProxy”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1956): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1956): error C2086: “const GUID IID_ISystemInformation”: 重定义
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(952): note: 参见“IID_ISystemInformation”的声明
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(1956): warning C4269: “IID_ISystemInformation”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(2096): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(2096): error C2086: “const GUID IID_IWindowsUpdateAgentInfo”: 重定义
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(955): note: 参见“IID_IWindowsUpdateAgentInfo”的声明
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(2096): warning C4269: “IID_IWindowsUpdateAgentInfo”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(2228): error C2598: 链接规范必须在全局范围内
+c:\program files (x86)\windows kits\10\include\10.0.19041.0\um\wuapi.h(2228): fatal error C1003: 错误计数超过 100；正在停止编译
